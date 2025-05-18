@@ -1,0 +1,22 @@
+[2025-05-18 17:09:46,805] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-05-18 17:09:46,840] 97 werkzeug - INFO -  * Debugger PIN: 396-607-363
+[2025-05-18 17:12:11,457] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:12:11] "GET / HTTP/1.1" 200 -
+[2025-05-18 17:12:12,940] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:12:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-05-18 17:12:18,756] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:12:18] "GET /predictdata HTTP/1.1" 200 -
+[2025-05-18 17:12:45,352] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:12:45] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2025-05-18 17:12:46,068] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:12:46] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-05-18 17:12:46,230] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:12:46] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-05-18 17:12:46,617] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:12:46] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=7gwF7yLNkYcXtaOEc8IT HTTP/1.1" 200 -
+[2025-05-18 17:12:46,878] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:12:46] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-05-18 17:14:48,814] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:48] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2025-05-18 17:14:48,879] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:48] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-05-18 17:14:48,933] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:48] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-05-18 17:14:49,299] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:49] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=7gwF7yLNkYcXtaOEc8IT HTTP/1.1[0m" 304 -
+[2025-05-18 17:14:49,551] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:49] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-05-18 17:14:53,366] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:53] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[2025-05-18 17:14:53,443] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:53] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-05-18 17:14:53,723] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:53] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-05-18 17:14:54,068] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:54] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=7gwF7yLNkYcXtaOEc8IT HTTP/1.1[0m" 304 -
+[2025-05-18 17:14:54,335] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:14:54] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-05-18 17:15:47,829] 97 werkzeug - INFO - 127.0.0.1 - - [18/May/2025 17:15:47] "GET /predictdata HTTP/1.1" 200 -
+[2025-05-18 17:15:50,606] 97 werkzeug - INFO -  * Detected change in 'g:\\My Drive\\Colab Notebooks\\Machine Learning\\End to End ml project\\app.py', reloading
